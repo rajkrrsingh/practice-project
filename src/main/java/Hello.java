@@ -19,6 +19,6 @@
 
 public class Hello {
     public static void main(String[] args) {
-        System.out.printf("Hellow world\n");
+        System.out.printf("Hello world\n");
     }
 }
